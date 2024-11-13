@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 Acharya Institute of Technology 
 13-11-2024
-=======
+
 Program 10
 cherry-pick
->>>>>>> cb6dc1d (first commit)
+
