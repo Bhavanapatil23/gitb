@@ -1,7 +1,15 @@
 Achary institute of technology
 git lab 1`"`"
 cse department
+<<<<<<< HEAD
 fghyk
 program cheery pick 
 13/11/24
 adding another line
+=======
+3rd sem
+lab 3`
+bhavana patil
+>>>>>>> feature_branch
+20/11/24
+program 12

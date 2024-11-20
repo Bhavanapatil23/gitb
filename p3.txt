@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 Program 10
 cherry-pick
+=======
+
+Acharya Institute of Technology 
+13-11-2024
+
+Program 10
+cherry-pick
+
+>>>>>>> feature_branch

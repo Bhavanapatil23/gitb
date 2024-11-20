@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 range of order
 13/11/24
 example program of 10
 
+=======
+
+ACHARYA INSTITUTE OF TECHNOLOGY
+range of order
+13/11/24
+example program of 10
+>>>>>>> feature_branch
